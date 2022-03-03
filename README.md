@@ -1,8 +1,8 @@
 ### Oiee, sou a Dhiessica.
 
-<p>🔭 Atualmente eu trabalho com Martech <br> 
-   🌱 Estou estudando Kotlin e NodeJS <br>
-   😄 Pronomes: She/Her
+<p>✨Atualmente eu trabalho com Martech <br> 
+   🎈Estou estudando Kotlin e NodeJS <br>
+   😊Pronomes: She/Her
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dhie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

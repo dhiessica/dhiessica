@@ -1,8 +1,7 @@
 ### Oiee, sou a Dhiessica.
 
-<p>✨Atualmente eu trabalho como desenvolvedora android <br> 
-   Estou estudando Kotlin <br>
-
+<p>✨Atualmente eu trabalho como desenvolvedora android tendo como linguagem principal o Java e também estudando pro Kotlin<br> 
+   
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dhie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

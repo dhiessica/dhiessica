@@ -1,7 +1,7 @@
 ### Oiee, sou a Dhiessica.
 
-<p>✨Atualmente eu trabalho com Martech <br> 
-   🎈Estou estudando Kotlin e NodeJS <br>
+<p>✨Atualmente eu trabalho como desenvolvedora android <br> 
+   🎈Estou estudando Kotlin <br>
    😊Pronomes: She/Her
 </p>
 <div style="display: inline_block"><br>

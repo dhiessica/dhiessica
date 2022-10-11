@@ -1,6 +1,6 @@
 ### Oiee, sou a Dhiessica.
 
-<p>✨Atualmente eu trabalho como desenvolvedora android tendo como linguagem principal o Java e também estudando Kotlin<br> 
+<p>Atualmente eu trabalho como desenvolvedora android tendo como linguagem principal o Java e também estudando Kotlin<br> 
    
 </p>
 <div style="display: inline_block"><br>
